@@ -1,6 +1,6 @@
-# Succubus C2
+# NPKC2
 
-![Succubus IMG](https://repository-images.githubusercontent.com/399815613/382efa0e-9147-4225-a304-29fccb61b25a)
+![NPKC2 IMG](https://repository-images.githubusercontent.com/399815613/382efa0e-9147-4225-a304-29fccb61b25a)
 
 If you think this is a backdoor please sumbit the proof as an issue or fork this repository otherwise fuck off, sincerely bleach.
 
