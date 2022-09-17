@@ -1,0 +1,16 @@
+{
+    "enabled":false,
+    "token":"MTAxOTg0OTkwMDA1MTE0ODgzMA.GCox6a.o5DWJy8gk3Fdiv9-WVEUM3msxpNcoQzVx3dXhY",
+
+
+    "logs":{
+        "enabled":true,
+        "channel": 1013045762600468500
+    },
+    "monitor":{
+        "enabled":true,
+        "channel": 1013045762600468500,
+        "message": 1018860346154438656,
+        "delay": 5000
+    }
+}

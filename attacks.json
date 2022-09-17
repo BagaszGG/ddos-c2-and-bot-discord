@@ -1,0 +1,14 @@
+{
+    "single instance":true,
+    "global concurrents":null,
+    "attack spinner":false,
+    "verify api certificate":true,
+    "allow attack by range":false,
+    
+    "host limit": {
+        "enabled":true,
+        "attacks":2,
+        "seconds":3600
+    }
+
+}
